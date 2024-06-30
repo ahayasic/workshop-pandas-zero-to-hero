@@ -11,17 +11,18 @@ The workshop explores the diverse capabilities of the pandas package, highlighti
 3. String Manipulation
 4. Data Cleaning
 5. Data Aggregation
+6. Data Combination
 7. Data Storage and File Formats
 8. Vectorization and Performance
 
 ## Requirements
 
-For this workshop, you will need Python 3.10 or later, Jupyter Notebooks and Pandas. Additional packages will be installed as needed on notebooks.
+For this workshop, you will need Python 3.10 or later, Jupyter Lab, Pandas and Seaborn. Additional packages will be installed as needed on notebooks.
 
 To install the required packages, run the following command:
 
 ```bash
-pip install pandas jupyter
+pip install "pandas[pyarrow]" jupyter seaborn
 ```
 
 # License
