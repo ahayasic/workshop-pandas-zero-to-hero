@@ -1,0 +1,6 @@
+,OrderID,DishName,Quantity,Price
+0,1001,Spaghetti Carbonara,2.0,112.5
+1,1002,Chicken Alfredo,1.0,114.0
+2,1003,Margherita Pizza,3.0,110.0
+3,1004,Caesar Salad,null,18.0
+4,1005,Tiramisu,null,16.5
